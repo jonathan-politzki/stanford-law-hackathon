@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title>Redline Document Analysis</title>
+
+    <!-- Office JavaScript API -->
+    <script type="text/javascript" src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js"></script>
+
+    <!-- For more information on Office UI Fabric, visit https://developer.microsoft.com/fabric. -->
+    <link rel="stylesheet" href="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-core/11.0.0/css/fabric.min.css"/>
+
+    <!-- Template styles -->
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="ms-font-m ms-Fabric">
+    <div id="container">
+        <h1 class="ms-font-xxl">Redline Document Analysis</h1>
+        <p class="ms-font-m">Use this add-in to analyze and compare document versions.</p>
+        <button id="analyze-button" class="ms-Button ms-Button--primary">
+            <span class="ms-Button-label">Analyze Document</span>
+        </button>
+        <div id="loading" style="display: none;">
+            <p class="ms-font-m">Analyzing document... Please wait.</p>
+            <div class="ms-Spinner"></div>
+        </div>
+        <div id="results-container" style="display: none;">
+            <h2 class="ms-font-xl">Analysis Results</h2>
+            <div id="summary" class="ms-font-m"></div>
+            <h3 class="ms-font-l">Suggestions</h3>
+            <ul id="suggestions" class="ms-font-m"></ul>
+        </div>
+        <div id="error-container" style="display: none;">
+            <p class="ms-font-m ms-fontColor-redDark">An error occurred. Please try again.</p>
+        </div>
+    </div>
+    
+    <!-- Your custom script -->
+    <script type="text/javascript" src="app.js"></script>
+</body>
+</html>

@@ -1,17 +1,25 @@
 import os
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, send_from_directory
 from werkzeug.utils import secure_filename
 from document_parser import parse_document
 from openai_integration import summarize_differences, generate_suggestion
 from diff_utils import compare_texts, identify_linked_edits
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static')
 app.config['UPLOAD_FOLDER'] = '/tmp'
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
 
 @app.route('/')
 def index():
     return render_template('index.html')
+
+@app.route('/word-add-in/<path:filename>')
+def word_add_in(filename):
+    return send_from_directory('static/word-add-in', filename)
+
+@app.route('/static/images/<path:filename>')
+def serve_images(filename):
+    return send_from_directory('static/images', filename)
 
 @app.route('/upload', methods=['POST'])
 def upload_files():
@@ -81,6 +89,38 @@ def suggest_change():
     data = request.json
     suggestion = generate_suggestion(data['context'], data['proposed_change'])
     return jsonify({'suggestion': suggestion})
+
+@app.route('/analyze', methods=['POST'])
+def analyze_document():
+    data = request.json
+    text = data['text']
+    
+    # Process the text using your existing functions
+    paragraphs = [{'text': p.strip()} for p in text.split('\n') if p.strip()]
+    differences = compare_texts(paragraphs, paragraphs)  # Compare with itself to identify structure
+    linked_edits = identify_linked_edits(differences)
+    
+    formatted_linked_edits = [
+        [
+            {
+                'index': edit[0],
+                'type': edit[1],
+                'text': edit[2],
+                'style': edit[3] if len(edit) > 3 else None,
+                'indent': edit[4] if len(edit) > 4 else None
+            }
+            for edit in group
+        ]
+        for group in linked_edits
+    ]
+    
+    summary = summarize_differences(formatted_linked_edits)
+    suggestions = generate_suggestion(text, "Improve the document structure and clarity")
+    
+    return jsonify({
+        'summary': summary,
+        'suggestions': suggestions.split('\n') if isinstance(suggestions, str) else suggestions
+    })
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
