@@ -1,0 +1,373 @@
+Logo
+Redline Document Analysis Tool
+Upload Documents
+Original Document:
+Arbital Health - Form of CA Invention Assignment Agreement (1).docx
+Revised Document:
+Edited Arbital Health - Form of CA Invention Assignment Agreement.docx
+Upload and Analyze
+Document Comparison
+EMPLOYEE INVENTION ASSIGNMENT and CONFIDENTIALITY AGREEMENT
+
+In consideration of, and as a condition of my employment with Arbital Health, Inc., a Delaware corporation with its principal offices in the State of California (the “Company”), I, as the “Employee” signing this Employee Invention Assignment and Confidentiality Agreement (this “Agreement”), hereby represent to the Company, and the Company and I hereby agree as follows:
+
+Purpose of Agreement. I understand that the Company is engaged in a continuous program of research, development, production and/or marketing in connection with its current and projected business and that it is critical for the Company to preserve and protect its proprietary information, its rights in certain inventions and works and in related intellectual property rights. Accordingly, I am entering into this Agreement, whether or not I am expected to create inventions or other works of value for the Company. As used in this Agreement, “Inventions” means inventions, improvements, designs, original works of authorship, formulas, processes, compositions of matter, computer software programs, databases, mask works, confidential information and trade secrets.
+
+Disclosure of Inventions. I will promptly disclose in confidence to the Company, or to any person designated by it, all Inventions that I make, create, conceive or first reduce to practice, either alone or jointly with others, during the period of my employment, whether or not in the course of my employment, and whether or not patentable, copyrightable or protectable as trade secrets.
+
+Work for Hire; Assigned Inventions. I acknowledge and agree that any copyrightable works prepared by me within the scope of my employment will be “works made for hire” under the Copyright Act and that the Company will be considered the author and owner of such copyrightable works. I agree that all Inventions that I make, create, conceive or first reduce to practice during the period of my employment, whether or not in the course of my employment, and whether or not patentable, copyrightable or protectable as trade secrets, and that (i) are developed using equipment, supplies, facilities or trade secrets of the Company; (ii) result from work performed by me for the Company; or (iii) relate to the Company’s business or actual or demonstrably anticipated research or development (the “Assigned Inventions”), will be the sole and exclusive property of the Company.
+
+Excluded Inventions and Other Inventions. Attached hereto as Exhibit A is a list describing all existing Inventions, if any, that may relate to the Company’s business or actual or demonstrably anticipated research or development and that were made by me or acquired by me prior to the Effective Date (as defined in Section 25, below), and which are not to be assigned to the Company (“Excluded Inventions”). If no such list is attached, I represent and agree that it is because I have no rights in any existing Inventions that may relate to the Company’s business or actual or demonstrably anticipated research or development. For purposes of this Agreement, “Other Inventions” means Inventions in which I have or may have an interest, as of the Effective Date or thereafter, other than Assigned Inventions and Excluded Inventions. I acknowledge and agree that if, in the scope of my employment, I use any Excluded Inventions or any Other Inventions, or if I include any Excluded Inventions or Other Inventions in any product or service of the Company or if my rights in any Excluded Inventions or Other Inventions may block or interfere with, or may otherwise be required for, the exercise by the Company of any rights assigned to the Company under this Agreement, I will immediately so notify the Company in writing. Unless the Company and I agree otherwise in writing as to particular Excluded Inventions or Other Inventions, I hereby grant to the Company, in such circumstances (whether or not I give the Company notice as required above), a perpetual, irrevocable, nonexclusive, transferable, world-wide, royalty-free license to use, disclose, make, sell, offer for sale, import, copy, distribute, modify and create works based on, perform, and display such Excluded Inventions and Other Inventions, and to sublicense third parties in one or more tiers of sublicensees with the same rights.
+
+Exception to Assignment. I understand that the Assigned Inventions will not include, and the provisions of this Agreement requiring assignment of inventions to the Company do not apply to, any invention that qualifies fully for exclusion under the provisions of Section 2870 of the California Labor Code, which are attached hereto as Exhibit B.
+
+Assignment of Rights. I agree to assign
+
+,
+
+and do hereby irrevocably transfer and assign
+
+,
+
+to the Company:
+
+(i) all of my rights, title
+
+,
+
+and interests in and with respect to any Assigned Inventions
+
+, provided that if the Company does not pursue the commercialization or use of an Assigned Invention within a period of [X] months from disclosure, all rights in such Assigned Invention shall revert to me, the inventor, upon written notice to the Company
+
+; (ii)
+
+ 
+
+all patents, patent applications, copyrights, mask works, rights in databases, trade secrets, and other intellectual property rights, worldwide, in any Assigned Inventions, along with any registrations of or applications to register such rights; and (iii)
+
+ 
+
+to the extent assignable, any and all Moral Rights (as defined below) that I may have in or with respect to any Assigned Inventions.
+
+I also hereby forever waive and agree never to assert any Moral Rights I may have in or with respect to any Assigned Inventions and any Excluded Inventions or Other Inventions licensed to the Company under Section 4, even after termination of my employment with the Company.
+
+“
+
+'
+
+Moral Rights
+
+”
+
+'
+
+means any rights to claim authorship of a work, to object to or prevent the modification or destruction of a work, to withdraw from circulation or control the publication or distribution of a work, and any similar right, regardless of whether or not such right is denominated or generally referred to as a
+
+“
+
+'
+
+moral right.
+
+”
+
+'
+
+[OPTIONAL LANGUAGE IF APPROPRIATE:
+
+Notwithstanding the foregoing, I will have the right to make accurate claims in my resume of my participation in the development, creation, or modification of any Assigned Inventions the existence of which has been made public by the Company.]
+
+Assistance. I will assist the Company in every proper way to obtain and enforce for the Company all patents, copyrights, mask work rights, trade secret rights and other legal protections for the Assigned Inventions, worldwide. I will execute and deliver any documents that the Company may reasonably request from me in connection with providing such assistance. My obligations under this section will continue beyond the termination of my employment with the Company; provided that the Company agrees to compensate me at a reasonable rate after such termination for time and expenses actually spent by me at the Company’s request in providing such assistance. I hereby appoint the Secretary of the Company as my attorney-in-fact to execute documents on my behalf for this purpose. I agree that this appointment is coupled with an interest and will not be revocable.
+
+Proprietary Information. I understand that my employment by the Company creates a relationship of confidence and trust with respect to any information or materials of a confidential or secret nature that may be made, created or discovered by me or that may be disclosed to me by the Company or a third party in relation to the business of the Company or to the business of any parent, subsidiary, affiliate, customer or supplier of the Company, or any other party with whom the Company agrees to hold such information or materials in confidence (the “Proprietary Information”). Without limitation as to the forms that Proprietary Information may take, I acknowledge that Proprietary Information may be contained in tangible material such as writings, drawings, samples, electronic media, or computer programs, or may be in the nature of unwritten knowledge or know-how. Proprietary Information includes, but is not limited to, Assigned Inventions, marketing plans, product plans, designs, data, prototypes, specimens, test protocols, laboratory notebooks, business strategies, financial information, forecasts, personnel information, contract information, customer and supplier lists, and the non-public names and addresses of the Company’s customers and suppliers, their buying and selling habits and special needs.
+
+Confidentiality. At all times, both during my employment and after its termination, and to the fullest extent permitted by law, I will keep and hold all Proprietary Information in strict confidence and trust. I will not use or disclose any Proprietary Information without the prior written consent of the Company in each instance, except as may be necessary to perform my duties as an employee of the Company for the benefit of the Company. Upon termination of my employment with the Company, I will promptly deliver to the Company all documents and materials of any nature pertaining to my work with the Company, and I will not take with me or retain in any form any documents or materials or copies containing any Proprietary Information. Nothing in this Section 9 or otherwise in this Agreement shall limit or restrict in any way my immunity from liability for disclosing the Company’s trade secrets as specifically permitted by 18 U.S. Code Section 1833, the pertinent provisions of which are attached hereto as Exhibit C.
+
+Physical Property. All documents, supplies, equipment and other physical property furnished to me by the Company or produced by me or others in connection with my employment will be and remain the sole property of the Company. I will return to the Company all such items when requested by the Company, excepting only my personal copies of records relating to my employment or compensation and any personal property I bring with me to the Company and designate as such. Even if the Company does not so request, I will upon termination of my employment return to the Company all Company property, and I will not take with me or retain any such items.
+
+No Breach of Prior Agreements. I represent that my performance of all the terms of this Agreement and my duties as an employee of the Company will not breach any invention assignment, proprietary information, confidentiality, non-competition, or other agreement with any former employer or other party. I represent that I will not bring with me to the Company or use in the performance of my duties for the Company any documents or materials or intangibles of my own or of a former employer or third party that are not generally available for use by the public or have not been legally transferred to the Company.
+
+“At Will” Employment. I understand that this Agreement does not constitute a contract of employment or obligate the Company to employ me for any stated period of time. I understand that I am an “at will” employee of the Company and that my employment can be terminated at any time, with or without notice and with or without cause, for any reason or for no reason, by either the Company or by me. I acknowledge that any statements or representations to the contrary are ineffective, unless put into a writing signed by the Company. I further acknowledge that my participation in any stock option or benefit program is not to be construed as any assurance of continuing employment for any particular period of time.
+
+Company Opportunities; Duty Not to Compete. During the period of my employment, I will at all times devote my best efforts to the interests of the Company, and I will not, without the prior written consent of the Company, engage in, or encourage or assist others to engage in, any other employment or activity that: (i) would divert from the Company any business opportunity in which the Company can reasonably be expected to have an interest; (ii) would directly compete with, or involve preparation to compete with, the current or future business of the Company; or (iii) would otherwise conflict with the Company’s interests or could cause a disruption of its operations or prospects.
+
+Non-Solicitation of Employees/Consultants. During my employment with the Company and for a one (1) year period thereafter, I will not directly or indirectly solicit away employees or consultants of the Company for my own benefit or for the benefit of any other person or entity, nor will I encourage or assist others to do so. [Note: The enforceability of this post-employment restriction under California law is in question based on recent state and federal court rulings, which have triggered risk that a court would refuse to enforce the restriction. Our current firm practice is to include the provision, but employers need to carefully consider this risk when deciding whether to include or remove this Section 14.]
+
+Use of Name & Likeness. I hereby authorize the Company to use, reuse, and to grant others the right to use and reuse, my name, photograph, likeness (including caricature), voice, and biographical information, and any reproduction or simulation thereof, in any form of media or technology now known or hereafter developed, both during and after my employment, for any purposes related to the Company’s business, such as marketing, advertising, credits, and presentations.
+
+Notification. I hereby authorize the Company, during and after the termination of my employment with the Company, to notify third parties, including, but not limited to, actual or potential customers or employers, of the terms of this Agreement and my responsibilities hereunder.
+
+Injunctive Relief. I understand that a breach or threatened breach of this Agreement by me may cause the Company to suffer irreparable harm and that the Company will therefore be entitled to injunctive relief to enforce this Agreement.
+
+Governing Law; Severability. This Agreement is intended to supplement, and not to supersede, any rights the Company may have in law or equity with respect to the duties of its employees and the protection of its trade secrets. This Agreement will be governed by and construed in accordance with the laws of the State of California without giving effect to any principles of conflict of laws that would lead to the application of the laws of another jurisdiction. If any provision of this Agreement is invalid, illegal or unenforceable in any respect, such provision will be enforced to the maximum extent possible, given the fundamental intentions of the parties when entering into this Agreement. To the extent such provision cannot be so enforced, it will be stricken from this Agreement and the remainder of this Agreement will be enforced as if such invalid, illegal or unenforceable provision had never been contained in this Agreement.
+
+Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered will be deemed an original, and all of which together will constitute one and the same agreement.
+
+Entire Agreement. This Agreement and the documents referred to herein constitute the entire agreement and understanding of the parties with respect to the subject matter of this Agreement, and supersede all prior understandings and agreements, whether oral or written, between the parties hereto with respect to such subject matter.
+
+Amendment and Waiver. This Agreement may be amended only by a written agreement executed by each of the parties to this Agreement. No amendment or waiver of, or modification of any obligation under, this Agreement will be enforceable unless specifically set forth in a writing signed by the party against which enforcement is sought. A waiver by either party of any of the terms and conditions of this Agreement in any instance will not be deemed or construed to be a waiver of such term or condition with respect to any other instance, whether prior, concurrent or subsequent.
+
+Successors and Assigns; Assignment. Except as otherwise provided in this Agreement, this Agreement, and the rights and obligations of the parties hereunder, will bind and benefit the parties and their respective successors, assigns, heirs, executors, administrators, and legal representatives. The Company may assign any of its rights and obligations under this Agreement. I understand that I will not be entitled to assign or delegate this Agreement or any of my rights or obligations hereunder, whether voluntarily or by operation of law, except with the prior written consent of the Company.
+
+Further Assurances. The parties will execute such further documents and instruments and take such further actions as may be reasonably necessary to carry out the purposes and intent of this Agreement. Upon termination of my employment with the Company, I will execute and deliver a document or documents in a form reasonably requested by the Company confirming my agreement to comply with the post-employment obligations contained in this Agreement.
+
+Acknowledgement. I certify and acknowledge that I have carefully read all of the provisions of this Agreement and that I understand and will fully and faithfully comply with this Agreement.
+
+[Section 25 and signatures follow on the next page.]
+
+Effective Date of Agreement. This Agreement is and will be effective on and after the first day of my employment by the Company, which is ____________________, _____ (the “Effective Date”).
+
+Exhibit A
+
+LIST OF EXCLUDED INVENTIONS UNDER SECTION 4
+
+Identifying Number
+
+Title Date or Brief Description
+
+No inventions, improvements, or original works of authorship
+
+Additional sheets attached
+
+Signature of Employee:
+
+Print Name of Employee:
+
+Date:
+
+Exhibit B
+
+Exhibit B
+
+CALIFORNIA LABOR CODE 2870 NOTICE:
+
+C
+
+ALIFORNIA LABOR CODE 2870 NOTICE
+
+alifornia Labor Code Section 2870 provides as follows
+
+:
+
+Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer’s equipment, supplies, facilities, or trade secret information except for those inventions that either: (1) relate at the time of conception or reduction to practice of the invention to the employer’s business, or actual or demonstrably anticipated research or development of the employer; or (2) result from any work performed by the employee for the employer. To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under
+
+California Labor Code Section
+
+ 
+
+2870
+
+provides as follows:
+
+(a), the provision is against the public policy of this state and is unenforceable.
+
+Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer’s equipment, supplies, facilities, or trade secret information except for those inventions that either: (1) relate at the time of conception or reduction to practice of the invention to the employer’s business, or actual or demonstrably anticipated research or development of the employer; or (2) result from any work performed by the employee for the employer. To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under California Labor Code Section 2870(a), the provision is against the public policy of this state and is unenforceable.
+
+Exhibit C
+
+Exhibit C
+
+DEFEND TRADE SECRETS ACT, 18 U.S. CODE § 1833 NOTICE:
+
+DEFEND TRADE SECRETS ACT, 18 U.S. CODE § 1833 NOTICE
+
+18 U.S. Code Section 1833 provides as follows
+
+:
+
+18 U.S. Code Section 1833 provides as follows:
+
+Immunity From Liability For Confidential Disclosure Of A Trade Secret To The Government Or In A Court Filing. An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that (A) is made, (i) in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or (B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal.
+
+Immunity From Liability For Confidential Disclosure Of A Trade Secret To The Government Or In A Court Filing. An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that (A) is made, (i) in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or
+
+Use of Trade Secret Information in Anti-Retaliation Lawsuit. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual
+
+(
+
+B
+
+A
+
+)
+
+is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal
+
+files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order
+
+.
+
+Use of Trade Secret Information in Anti-Retaliation Lawsuit. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (A) files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order.
+
+Summary of Changes
+The text has been edited to change punctuation and clarify some legal language. Several commas and spaces are removed and added throughout. A condition to the text is added, mentioning that if the Company doesn't use or commercialize an Assigned Invention within a certain period, rights of said invention revert to the inventor. A change in the type of quotation marks used (from “ ” to ' ') has also been implemented. There is a change in the text-style from 'Tabbed_L1' and '
+
+Change Management
+Change Group 1
+,
+
+Accept All
+Reject All
+Propose Counter
+Change Group 2
+,
+
+Accept All
+Reject All
+Propose Counter
+Change Group 3
+Accept All
+Reject All
+Propose Counter
+Change Group 4
+,
+
+Accept All
+Reject All
+Propose Counter
+Change Group 5
+, provided that if the Company does not pursue the commercialization or use of an Assigned Invention within a period of [X] months from disclosure, all rights in such Assigned Invention shall revert to me, the inventor, upon written notice to the Company
+
+Accept All
+Reject All
+Propose Counter
+Change Group 6
+ 
+
+Accept All
+Reject All
+Propose Counter
+Change Group 7
+ 
+
+Accept All
+Reject All
+Propose Counter
+Change Group 8
+Accept All
+Reject All
+Propose Counter
+Change Group 9
+“
+
+'
+
+Accept All
+Reject All
+Propose Counter
+Change Group 10
+”
+
+'
+
+Accept All
+Reject All
+Propose Counter
+Change Group 11
+“
+
+'
+
+Accept All
+Reject All
+Propose Counter
+Change Group 12
+”
+
+'
+
+Accept All
+Reject All
+Propose Counter
+Change Group 13
+Accept All
+Reject All
+Propose Counter
+Change Group 14
+Accept All
+Reject All
+Propose Counter
+Change Group 15
+Exhibit B
+
+Exhibit B
+
+CALIFORNIA LABOR CODE 2870 NOTICE:
+
+Accept All
+Reject All
+Propose Counter
+Change Group 16
+ALIFORNIA LABOR CODE 2870 NOTICE
+
+alifornia Labor Code Section 2870 provides as follows
+
+Accept All
+Reject All
+Propose Counter
+Change Group 17
+Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer’s equipment, supplies, facilities, or trade secret information except for those inventions that either: (1) relate at the time of conception or reduction to practice of the invention to the employer’s business, or actual or demonstrably anticipated research or development of the employer; or (2) result from any work performed by the employee for the employer. To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under
+
+Accept All
+Reject All
+Propose Counter
+Change Group 18
+ 
+
+Accept All
+Reject All
+Propose Counter
+Change Group 19
+provides as follows:
+
+(a), the provision is against the public policy of this state and is unenforceable.
+
+Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer’s equipment, supplies, facilities, or trade secret information except for those inventions that either: (1) relate at the time of conception or reduction to practice of the invention to the employer’s business, or actual or demonstrably anticipated research or development of the employer; or (2) result from any work performed by the employee for the employer. To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under California Labor Code Section 2870(a), the provision is against the public policy of this state and is unenforceable.
+
+Exhibit C
+
+Exhibit C
+
+DEFEND TRADE SECRETS ACT, 18 U.S. CODE § 1833 NOTICE:
+
+DEFEND TRADE SECRETS ACT, 18 U.S. CODE § 1833 NOTICE
+
+18 U.S. Code Section 1833 provides as follows
+
+Accept All
+Reject All
+Propose Counter
+Change Group 20
+18 U.S. Code Section 1833 provides as follows:
+
+Immunity From Liability For Confidential Disclosure Of A Trade Secret To The Government Or In A Court Filing. An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that (A) is made, (i) in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or (B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal.
+
+Immunity From Liability For Confidential Disclosure Of A Trade Secret To The Government Or In A Court Filing. An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that (A) is made, (i) in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or
+
+Use of Trade Secret Information in Anti-Retaliation Lawsuit. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual
+
+Accept All
+Reject All
+Propose Counter
+Change Group 21
+B
+
+A
+
+Accept All
+Reject All
+Propose Counter
+Change Group 22
+is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal
+
+files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order
+
+Accept All
+Reject All
+Propose Counter
+Change Group 23
+Use of Trade Secret Information in Anti-Retaliation Lawsuit. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (A) files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order.
+
+Accept All
+Reject All
+Propose Counter
